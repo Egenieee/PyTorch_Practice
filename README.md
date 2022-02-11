@@ -41,3 +41,7 @@
 * 구현 file
 > cnn_fashion_mnist.py   
 > nn_fashion_mnist.py
+
+***
+#### 참고
+> PyTorch Tutorial : <https://tutorials.pytorch.kr/>
